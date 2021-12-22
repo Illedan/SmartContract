@@ -1,6 +1,6 @@
 {
-  "name": "smart-contract-web3",
-  "homepage": "http://illedan.github.io/web3",
+  "name": "smartcontract",
+  "homepage": "http://illedan.github.io/SmartContract",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
